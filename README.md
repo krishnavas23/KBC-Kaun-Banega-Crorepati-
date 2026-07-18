@@ -20,7 +20,8 @@ A desktop recreation of the famous <b>Kaun Banega Crorepati (Who Wants to Be a M
 <img width="1848" height="987" alt="Screenshot 2026-07-18 140409" src="https://github.com/user-attachments/assets/3fc674b5-49cb-4755-838d-805101109ea9" />
 <img width="1717" height="977" alt="Screenshot 2026-07-18 145112" src="https://github.com/user-attachments/assets/0e78ba18-edb5-460f-ae39-edd5f299e572" />
 <img width="1771" height="991" alt="Screenshot 2026-07-18 140713" src="https://github.com/user-attachments/assets/20070591-748e-45fd-9d11-f8d57c40089e" />
-<img width="1796" height="981" alt="Screenshot 2026-07-18 144344" src="https://github.com/user-attachments/assets/0ed59e99-714f-43a8-8caa-d23d1aa96cf1" />
+<img width="1796" height="964" alt="623544650-0ed59e99-714f-43a8-8caa-d23d1aa96cf1" src="https://github.com/user-attachments/assets/845399cc-29ac-4e48-85a2-804aa8a3a1d9" />
+
 
 ---
 
