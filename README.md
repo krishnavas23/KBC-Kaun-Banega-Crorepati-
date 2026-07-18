@@ -1,7 +1,7 @@
 # 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Tkinter-GUI-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pygame-Audio-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
