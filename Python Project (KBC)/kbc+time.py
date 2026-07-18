@@ -65,7 +65,7 @@ def end_quiz():
     imgLabel = Label(root1, image=lostwindow, bg='black', bd=0)
     imgLabel.pack(pady=20)
 
-    loseLabel = Label(root1,text=f"Oops,that's not correct\nBetter luck next time!\nAccuracy: {accuracy:.2f}% \nYour take home money is £{money}", font=('calibri',18,'bold'),bg='black',fg='yellow')
+    loseLabel = Label(root1,text=f"Oops,that's not correct\nBetter luck next time!\nAccuracy: {accuracy:.2f}% \nYour take home money is £{money:,}", font=('calibri',18,'bold'),bg='black',fg='yellow')
     loseLabel.pack()
 
     tryagainButton = Button(root1, text='Try Again', font=('georgia', 20, 'bold'),
@@ -123,9 +123,9 @@ def select(event):
             root.update()
 
             if value==correct_answers[4]:
-                money=1,000
+                money=1000
             if value==correct_answers[9]:
-                money=32,000
+                money=32000
             if value==correct_answers[14]:
                 amountLabel.config(image=amountimage15)
                 accuracy = (score / len(questions)) * 100
