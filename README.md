@@ -1,83 +1,87 @@
-🧠 Who Wants To Be A Millionaire – Python Quiz Game
-An interactive Who Wants To Be A Millionaire inspired quiz game built using Python.
-This project features a graphical interface, lifelines, timer system, money ladder, and multiple-choice questions — recreating the classic game-show experience.
+.
 
-🚀 Features
-🎮 Interactive GUI-based quiz game
-⏳ Countdown timer for each question
-💰 Prize money ladder system
-🧠 Multiple-choice questions
-🛟 Lifelines:
-50:50
+🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
+
+A desktop quiz game inspired by Kaun Banega Crorepati (KBC) / Who Wants to Be a Millionaire, built using Python and Tkinter. The game features a graphical user interface, countdown timer, lifelines, voice feedback, sound effects, and an interactive prize ladder to recreate the television quiz show experience.
+
+📌 About
+
+This project recreates the famous Who Wants to Be a Millionaire game with an engaging desktop interface. Players answer 15 multiple-choice questions while competing against a 5-minute countdown timer. The game includes realistic lifelines, sound effects, and voice assistance to provide an immersive gameplay experience.
+
+✨ Features
+🎯 15 Multiple Choice Questions
+⏱️ 5 Minute Countdown Timer
+💰 Dynamic Prize Money Ladder
+🎲 Three Lifelines
+50-50
 Audience Poll
 Phone a Friend
-🔊 Game-show inspired UI
-🏆 Winning progression system
-❌ Wrong answer handling
-
+🔊 Text-to-Speech Feedback
+🎵 Background Music & Winning Sound Effects
+🏆 Win and Lose Screens
+📊 Score & Accuracy Calculation
+🖥️ Full Graphical User Interface (Tkinter)
 🛠️ Tech Stack
 Python
-Tkinter (GUI)
-PIL / Pillow (Images)
-Object-Oriented Programming
-
+Tkinter
+ttk
+Pygame
+pyttsx3
 📂 Project Structure
-📦 millionaire-game
- ┣ 📜 main.py
- ┣ 📜 questions.py
- ┣ 📂 assets
- ┃ ┣ 🖼️ images
- ┃ ┗ 🔊 sounds
- ┣ 📜 README.md
- ┗ 📜 requirements.txt
+Python Project (KBC)
+│
+├── kbc+time.py          # Main Game Logic
+├── helper.txt           # Project Documentation
+├── Images (.png)
+├── Audio Files (.mp3)
+└── VS Code Configuration
 
- ⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/your-username/millionaire-game.git
-2️⃣ Open the project folder
-cd millionaire-game
-3️⃣ Install dependencies
-pip install pillow
-4️⃣ Run the project
-python main.py
+🚀 How to Run
+1. Install Dependencies
+pip install pygame pyttsx3
+2. Clone Repository
+git clone https://github.com/krishnavas23/KBC-Kaun-Banega-Crorepati.git
+3. Navigate to Project
+cd KBC-Kaun-Banega-Crorepati
+4. Run
+python "Python Project (KBC)/kbc+time.py"
 
-🎯 Gameplay
-Start the game
-Read the question carefully
-Choose the correct option
-Use lifelines wisely
-Reach the final prize and become a millionaire 🏆
+Make sure all required image and audio assets are present inside the project folder.
 
-🧠 Concepts Used
-GUI Programming
-Event Handling
-Timers
-OOP Concepts
-File Handling
-Conditional Logic
+🎮 Gameplay
+Answer all 15 questions correctly.
+Use each lifeline only once.
+Beat the countdown timer.
+Reach the final question to win £1 Million.
+📸 Screenshots
 
-📸 Screenshot
-<img width="1913" height="1005" alt="image" src="https://github.com/user-attachments/assets/de55a0c3-5209-4dcc-bece-af8065ed10a7" />
+Add screenshots of:
 
-🌟 Future Improvements
-Add sound effects & background music
-Add database for questions
+Home Screen
+Question Screen
+Lifelines
+Audience Poll
+Winning Screen
+Losing Screen
+💡 Future Improvements
+Question database using JSON or SQLite
+Randomized question order
 Difficulty levels
+User login system
+High score leaderboard
+Save game progress
 Multiplayer mode
-Online leaderboard
-Better animations
-
-🤝 Contributing
-Contributions are welcome!
-Feel free to fork this repository and improve the project.
-
-📜 License
-This project is open-source and available under the MIT License.
-
+Responsive UI
 👨‍💻 Author
-Krishna Vashisht
-Passionate about Software Development & Problem Solving
-Interested in Full-Stack Development and GUI Applications
 
-⭐ Support
-If you liked this project, give it a ⭐ on GitHub!
+Krishna Vashisht
+
+Computer Science Engineering Student
+
+GitHub: https://github.com/krishnavas23
+
+LinkedIn: https://www.linkedin.com/in/krishna-vashisht-70877a306/
+
+⭐ Show your support
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub!
