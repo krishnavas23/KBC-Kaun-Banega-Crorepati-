@@ -1,5 +1,3 @@
-.
-
 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
 
 A desktop quiz game inspired by Kaun Banega Crorepati (KBC) / Who Wants to Be a Millionaire, built using Python and Tkinter. The game features a graphical user interface, countdown timer, lifelines, voice feedback, sound effects, and an interactive prize ladder to recreate the television quiz show experience.
