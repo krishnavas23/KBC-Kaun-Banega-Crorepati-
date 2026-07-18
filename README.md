@@ -1,4 +1,4 @@
-<img width="1810" height="988" alt="Screenshot 2026-07-18 140330" src="https://github.com/user-attachments/assets/c638a025-d3ca-4fc7-b3fb-3e8212d36705" /># 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
+# 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
