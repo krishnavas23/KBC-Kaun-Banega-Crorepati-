@@ -126,7 +126,7 @@ python "Python Project (KBC)/kbc+time.py"
 
 **Krishna Vashisht**
 
-🎓 B.Tech Computer Science Engineering  
+🎓 B.Tech Computer Science Engineering.
 Guru Nanak Dev University
 
 📧 **GitHub:**  
