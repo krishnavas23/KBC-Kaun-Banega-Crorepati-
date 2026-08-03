@@ -127,7 +127,7 @@ python "Python Project (KBC)/kbc+time.py"
 **Krishna Vashisht**
 
 🎓 B.Tech Computer Science Engineering.
-Guru Nanak Dev University
+Guru Nanak Dev University.
 
 ---
 
