@@ -129,12 +129,6 @@ python "Python Project (KBC)/kbc+time.py"
 🎓 B.Tech Computer Science Engineering.
 Guru Nanak Dev University
 
-📧 **GitHub:**  
-https://github.com/krishnavas23
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/krishna-vashisht-70877a306/
-
 ---
 
 # ⭐ Support
