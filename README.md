@@ -135,7 +135,7 @@ Guru Nanak Dev University.
 
 If you found this project interesting, please consider giving it a ⭐ on GitHub.
 
-It helps support the project and motivates future improvements.
+It helps support the Project and motivates future improvements.
 
 ---
 
