@@ -1,4 +1,4 @@
-# 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game)
+# 🎮 KBC - Kaun Banega Crorepati (Python Quiz Game).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
